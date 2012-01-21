@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GherkinParser", "GherkinParser\GherkinParser.fsproj", "{2CE5F7A0-FA6A-4026-91EF-116CCC31C431}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "GherkinParserTests", "GherkinParserTests\GherkinParserTests.fsproj", "{4B13EF9C-6086-4F89-ADC7-16A0051BAB9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE5F7A0-FA6A-4026-91EF-116CCC31C431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE5F7A0-FA6A-4026-91EF-116CCC31C431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE5F7A0-FA6A-4026-91EF-116CCC31C431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE5F7A0-FA6A-4026-91EF-116CCC31C431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B13EF9C-6086-4F89-ADC7-16A0051BAB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B13EF9C-6086-4F89-ADC7-16A0051BAB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B13EF9C-6086-4F89-ADC7-16A0051BAB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B13EF9C-6086-4F89-ADC7-16A0051BAB9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
